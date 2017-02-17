@@ -3,4 +3,4 @@
   <p class="vizcarousel-desc-text author">by <a target="_blank" href="https://crimemap.info/"></a></p>
   <p class="vizcarousel-desc-text">Built using <a href="/dataset/crime-incidents">Police Crime Incidents and Locations</a>.</p>
 </div>
-<img src="/img/odp-viz-1.png" srcset="/img/cut-viz1.png 2x">
+<img src="/img/odp-viz-1.png" srcset="/img/cut-viz-1.png 2x">
