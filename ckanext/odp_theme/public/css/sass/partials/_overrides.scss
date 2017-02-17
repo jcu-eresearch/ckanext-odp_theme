@@ -1,0 +1,8 @@
+ .vizcarousel img{
+
+  // Hack to fix round images being too tall in preview homepage
+  max-width: initial;
+  width: initial;
+  max-height: 100%;
+// end hack
+ }
